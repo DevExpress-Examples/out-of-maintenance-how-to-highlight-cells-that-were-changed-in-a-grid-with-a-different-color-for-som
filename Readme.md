@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CellToPaint.cs](./CS/CellChangedHighlight/CellToPaint.cs) (VB: [CellToPaint.vb](./VB/CellChangedHighlight/CellToPaint.vb))
+* [Form1.cs](./CS/CellChangedHighlight/Form1.cs) (VB: [Form1.vb](./VB/CellChangedHighlight/Form1.vb))
+<!-- default file list end -->
 # How to highlight cells that were changed in a grid with a different color for some time
 
 
